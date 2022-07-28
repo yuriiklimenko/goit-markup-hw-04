@@ -273,7 +273,7 @@ body {
 .clients-link:hover,
 .clients-link:focus {
   fill: var(--accent-color);
-  outline: 1px solid var(--accent-color);
+  border-color: var(--accent-color);
 }
 
 /* team */
